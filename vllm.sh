@@ -1,0 +1,1 @@
+vllm serve TinyLlama/TinyLlama-1.1B-Chat-v1.0 --dtype=half
